@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+#include <stdio.h>
+
 // Desafio Batalha Naval - MateCheck
 // NÍVEL NOVATO - POSICIONANDO NAVIOS NO TABULEIRO
 // Autor: Leandro Costa
